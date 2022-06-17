@@ -17,7 +17,7 @@ password = input("Please enter your password: ")
 #logging in to instagram profile
 instance.login(user=user_name,passwd=password)
 
-#instagram profile of the user from which you want to download stories
+#instagram profile of the user from which you want to download storie
 name = input("please enter your username to get story: ")
 
 #pass the username to get profile
